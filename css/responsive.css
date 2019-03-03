@@ -1,0 +1,29 @@
+@media screen and (max-width:768px){
+	.about{
+		width: 50%;
+	}
+	.services{
+		width:50%;
+	}
+	.contractsingle{
+		width:50%;
+	}
+}
+@media screen and (max-width:480px){
+	.about{
+		width: 100%;
+	}
+	.services{
+		width:100%;
+	}
+	.contractsingle{
+		width:100%;
+	}
+	.contract-form{
+		width: 100%;
+		padding-right: 0;
+	}
+	.message{
+		width: 100%;
+	}
+}
